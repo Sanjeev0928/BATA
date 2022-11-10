@@ -1,0 +1,26 @@
+.container{
+    text-align:center;
+    /* background-color: darkgray; */
+    margin-top: 10px;
+    
+    
+}
+.card{
+ width: 50%;
+ margin: auto;
+ background-color: white;
+ padding: 20px;
+ border-radius: 20px;
+}
+
+.field{
+    width: 100%;
+    margin-block: -1px;
+    
+}
+/* .form{
+    color: black;
+} */
+.card button{
+    margin: 5px;
+}
